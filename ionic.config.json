@@ -1,0 +1,7 @@
+{
+  "name": "driver-license-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
